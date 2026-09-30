@@ -1,0 +1,2 @@
+posts/*.mp4 filter=lfs diff=lfs merge=lfs -text
+posts/*.mov filter=lfs diff=lfs merge=lfs -text
